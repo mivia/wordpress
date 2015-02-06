@@ -1,0 +1,22 @@
+{
+  "name": "wordpress",
+  "version": "0.0.0",
+  "authors": [
+    "mivia <wiaderekmichal@gmail.com>"
+  ],
+  "description": "wordpress test",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "jquery"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.3"
+  }
+}
